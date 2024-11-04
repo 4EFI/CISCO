@@ -49,21 +49,21 @@
 
 Инкапсуляция: помещение данных более высокого уровня в структуры более нижних уровней.
 
-![Иллюстрация инкапсуляции](res/1_1.png)
+<p style="text-align: left"><img src=res/1_1.png width="400px"/></p>
 
-![](res/1_2.png)
+<p style="text-align: left"><img src=res/1_2.png width="500px"/></p>
 
 Такой идеальной ситуации не бывает. Между ними есть другие устройства. Может стоять устройство для усиления сигнала (Физический Уровень):
 
-![](res/1_3.png)
+<p style="text-align: left"><img src=res/1_3.png width="500px"/></p>
 
 Могут быть устройства более высоких уровней:
 
-![](res/1_4.png)
+<p style="text-align: left"><img src=res/1_4.png width="500px"/></p>
 
 Чаще всего расположено несколько таких устройств:
 
-![](res/1_5.png)
+<p style="text-align: left"><img src=res/1_5.png width="600px"/></p>
 
 ## Топологии (Физические):
 
@@ -73,6 +73,6 @@
 * Partial mesh
 * Ring
 
-![Виды топологий](res/1_6.png)
+<p style="text-align: left"><img src=res/1_6.png width="800px"/></p>
 
 Ethernet не работает с кольцами.
